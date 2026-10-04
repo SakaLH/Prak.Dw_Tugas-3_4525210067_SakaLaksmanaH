@@ -15,6 +15,7 @@ PERTEMUAN-03/
 │   └── style.css
 └── images/
     └── profil.jpg
+```
 
 ## Fitur
 
@@ -70,3 +71,10 @@ rgba(255, 255, 255, 0.85)
 
 /* Nama warna */
 navy
+
+## Screenshot
+
+<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/7a3393eb-56f2-468d-873c-fcd30df96dcc" />
+
+<img width="1917" height="915" alt="image" src="https://github.com/user-attachments/assets/f3166e9e-2b16-46dc-9724-3f7cb9b49e2d" />
+
